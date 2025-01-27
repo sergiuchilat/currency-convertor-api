@@ -1,7 +1,7 @@
 # Currency Conversion API Documentation
 
 ## Overview
-The Currency Conversion API provides endpoints for retrieving exchange rates, converting currency amounts, and accessing historical rates using external exchange rate data. This API is designed for ease of integration, scalability, and reliability.
+The Currency Conversion API provides endpoints for retrieving exchange rates, converting currency amounts, and accessing the list of available currencies. This API is designed for ease of integration, scalability, and reliability.
 
 ---
 
